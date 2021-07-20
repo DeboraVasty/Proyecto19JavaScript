@@ -1,0 +1,13 @@
+{
+  "clientes": [
+    {
+      "nombre": "Débora Vasty",
+      "email": "dchacachm@gmail.com",
+      "telefono": "45455634",
+      "empresa": "PlusTI",
+      "puesto": "Desarrollador",
+      "direccion": "12 calle",
+      "id": 1
+    }
+  ]
+}
